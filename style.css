@@ -30,7 +30,6 @@ h1{
     align-items: center;
     width:165px;
     height:165px;
-    overflow:hidden;
     display: flex;
     justify-content: center;
 }
